@@ -1,0 +1,25 @@
+div{
+  padding: 150px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #5e5858;
+  border-width: 5px;
+  padding: 8px;
+  text-align: left;
+
+}
+
+th {
+  background-color: #8a7a24;
+}
+
+p {
+  color: #4e9723;
+
+}
